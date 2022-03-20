@@ -9,3 +9,7 @@ function xyz() {
 function qwe() {
     return 333
 }
+
+function asd() {
+    return 888
+}
